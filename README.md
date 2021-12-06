@@ -1,4 +1,4 @@
-# Notice
+# Notice!
 This package is forked and repackaged version of the [Laravel 5.5+ Database Encryption Package](https://github.com/austinheap/laravel-database-encryption).
 This is to enable support for Laravel 6.0 framework and to be used as FileInvite internal package.
 
