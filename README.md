@@ -100,7 +100,7 @@ The FAQ contains [migration instructions if you are moving from elocryptfive](#i
 Via Composer command line:
 
 ```bash
-$ composer require austinheap/laravel-database-encryption
+$ composer require fileinvite-org/laravel-database-encryption
 ```
 
 Or add the package to your `composer.json`:
