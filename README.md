@@ -1,3 +1,7 @@
+# Notice
+This package is forked and repackaged version of the [Laravel 5.5+ Database Encryption Package](https://github.com/austinheap/laravel-database-encryption).
+This is to enable support for Laravel 6.0 framework and to be used as FileInvite internal package.
+
 # Laravel 5.5+ Database Encryption Package
 
 ![laravel-database-encryption banner from the documentation](docs/img/banner-1544x500.png?raw=true)
@@ -168,7 +172,7 @@ For example:
 
     class User extends Eloquent {
         use HasEncryptedAttributes;
-       
+
         /**
          * The attributes that should be encrypted on save.
          *
