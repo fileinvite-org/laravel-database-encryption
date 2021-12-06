@@ -30,7 +30,7 @@
         "eloquent encryption",
         "model encryption",
         "attribute encryption",
-        "database encryption",
+        "database encryption"
     ],
     "homepage": "https://github.com/fileinvite-org/laravel-database-encryption",
     "license": "MIT",
